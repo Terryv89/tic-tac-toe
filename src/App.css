@@ -50,5 +50,21 @@
 }
 
 .square:active {
-  background-color: #64f4c4;
+  background-color: lightblue;
+}
+
+button {
+  margin-top: 20px;
+  width: 145px;
+  height: 35px;
+  background-color: steelblue;
+  border: 1px solid black;
+}
+
+button:hover {
+  cursor: pointer;
+}
+
+.button:active {
+  background-color: lightblue;
 }
